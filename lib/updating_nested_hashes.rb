@@ -49,7 +49,11 @@ def add_characters
          {name: "Steven", age: "30", attitude: "confused"},
          {name: "Nurse", age: "44", attitude: "worried"}
          ]
+<<<<<<< HEAD
       },
+=======
+      }
+>>>>>>> de41447e74e5264b08cbb8887ba45d3cbfe65be9
       :additional_characters => [
          {name: "Prince Escalus"},
          {name: "Apothecary"}
